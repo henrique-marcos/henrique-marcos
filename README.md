@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/HenriqueVM8/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20;1%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=124214&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=124214&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=HenriqueVM8&bg_color=0d1117&color=DCDCDC&line=1f1e1e&point=16fd00&area=true&hide_border=true)](github-readme-activity-graph)
